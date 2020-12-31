@@ -41,3 +41,10 @@ $ cd presto-server-0.244.1.tar.gz
 # service start
 $ bin/launcher start
 ```
+
+---
+
+#### HiveTableProperties
+- https://github.com/prestodb/presto/blob/master/presto-hive/src/main/java/com/facebook/presto/hive/HiveTableProperties.java
+
+
